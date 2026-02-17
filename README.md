@@ -22,7 +22,7 @@
 - 👨‍💻 Check out my **[production-ready projects](https://github.com/RudraSuthar09)**
 - 💬 Ask me about **React, Node, Python, ML, APIs, MongoDB, PostgreSQL**
 - 📫 Reach me: **rudrasuthar09@gmail.com**
-- 📄 Know more about me: [Resume](https://drive.google.com/file/d/1EpA8HCTqsIn3t3zxPJo4TlR6ULVXDjhc/view?usp=sharing)
+- 📄 Know more about me: [Resume](https://drive.google.com/file/d/1iwPx0Nbzb_eLI-27hE3mRH5VNldOVWci/view?usp=sharing)
 <h3 align="left">Featured Projects:</h3>
 
 - [Biased AI – Financial Decision Making](https://github.com/RudraSuthar09/Biased_AI_-_Financial_Descision_Making) - ML research on algorithmic trading bias- Current Internship at IIMB
